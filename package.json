@@ -1,0 +1,18 @@
+{
+  "name": "idea-generator-backend-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^10.7.1",
+    "openai": "^4.20.1"
+  },
+  "keywords": [],
+  "type": "module"
+}
